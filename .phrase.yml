@@ -1,0 +1,15 @@
+phrase:
+  #access_token: my_phrase_access_token
+  project_id: d26f35524724d95c5e8e976af85525d5
+  push:
+    sources:
+      - file: ./en_locale/locale_en.properties
+        params:
+          file_format: properties
+          locale_id: 3f6f9327af3e3287b4b1e4c142911cce
+  pull:
+    targets:
+      - file: ./de_locale/locale_de.properties
+        params:
+          file_format: properties
+          locale_id: ca04c5b6432160608b3903088c5f9922
