@@ -2,14 +2,7 @@ phrase:
   #access_token: my_phrase_access_token
   project_id: d26f35524724d95c5e8e976af85525d5
   push:
-    sources:
-      - file: ./uk_locale/locale_en.properties
-        params:
-          file_format: properties
-          locale_id: 3f6f9327af3e3287b4b1e4c142911cce
-          update_translations: true
-          tags: UK_Website , Bosch_Brand
-          
+    sources:      
        - file: ./de_locale/locale_en.properties
         params:
           file_format: properties
