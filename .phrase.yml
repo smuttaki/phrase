@@ -8,6 +8,7 @@ phrase:
           file_format: properties
           locale_id: 3f6f9327af3e3287b4b1e4c142911cce
           update_translations: true
+          tags: UK_Website
   pull:
     targets:
       - file: ./uk_locale/locale_de.properties
