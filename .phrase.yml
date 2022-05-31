@@ -18,12 +18,12 @@ phrase:
  
   pull:
     targets:
-      - file: ./de_locale/locale_de.properties
+      - file: ./all_translations/locale_de.properties
         params:
           file_format: properties
           locale_id: c28293e15bc19627dc6d920973df8c24
           
-      - file: ./de_locale/locale_fr.properties
+      - file: ./all_translations/locale_fr.properties
         params:
           file_format: properties
           locale_id: e8ebec66a2d836ca555f71b4e8663c84
