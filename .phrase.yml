@@ -1,18 +1,18 @@
 phrase:
   #access_token: my_phrase_access_token
-  project_id: b95659c0e8e209dcd3471e54e8513ef2
+  project_id: d26f35524724d95c5e8e976af85525d5
   push:
     sources:
       - file: ./de_locale/locale_en.properties
         params:
           file_format: properties
-          locale_id: eb6fa83febcad7125aec14c637275345
+          locale_id: 3f6f9327af3e3287b4b1e4c142911cce
           update_translations: true
           tags: DE_Website , Bosch_Brand
       - file: ./uk_locale/locale_en.properties
         params:
           file_format: properties
-          locale_id: eb6fa83febcad7125aec14c637275345
+          locale_id: 3f6f9327af3e3287b4b1e4c142911cce
           update_translations: true
           tags: UK_Website , Siemens_Brand
  
@@ -21,12 +21,12 @@ phrase:
       - file: ./all_translations/locale_de.properties
         params:
           file_format: properties
-          locale_id: c28293e15bc19627dc6d920973df8c24
+          locale_id: ca04c5b6432160608b3903088c5f9922
           
       - file: ./all_translations/locale_fr.properties
         params:
           file_format: properties
-          locale_id: e8ebec66a2d836ca555f71b4e8663c84
+          locale_id: d575879069c4d7146a12d444426dbb10
    
       
           
